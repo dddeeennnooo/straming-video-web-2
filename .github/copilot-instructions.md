@@ -1,5 +1,4 @@
-# Copilot instructions — prediction_hovno
-
+# Copilot instructions
 This repository is a small prediction prototype. The guidance below helps an AI coding agent to be immediately productive.
 
 **Big Picture:**
